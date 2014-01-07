@@ -12,4 +12,4 @@ Improvbot is a piece of software I designed and programmed that improvises music
 More Info
 ------------
 
-Please check out ImprovbotDocumentation.pdf (in the files) for more information on how Improvbot works. You can find a recording of a live demo from my Senior Recital at Syracuse University here: http://alexgraham.net/portfolio/files/ImprovbotLiveDemo.mp3.
+Please check out ImprovbotDocumentation.pdf (in the files or at http://alexgraham.net/portfolio/files/ImprovbotDocumentation.pdf) for more information on how Improvbot works. You can find a recording of a live demo from my Senior Recital at Syracuse University here: http://alexgraham.net/portfolio/files/ImprovbotLiveDemo.mp3.
